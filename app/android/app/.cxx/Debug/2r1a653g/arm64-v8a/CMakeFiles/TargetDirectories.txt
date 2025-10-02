@@ -1,0 +1,2 @@
+C:/Users/Ats/Downloads/the-student-blueprint/app/android/app/.cxx/Debug/2r1a653g/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/Ats/Downloads/the-student-blueprint/app/android/app/.cxx/Debug/2r1a653g/arm64-v8a/CMakeFiles/rebuild_cache.dir
